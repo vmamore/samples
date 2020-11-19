@@ -1,0 +1,1 @@
+tutorial example: https://tyrrrz.me/blog/fluent-generics
